@@ -16,7 +16,8 @@ Open to PhD and ML research roles in Munich.
 | Project | Description |
 |---|---|
 | [CSLRF-2D](https://github.com/PeterrHH/CSLRF-2D) | Self-supervised 2D-CPC pre-training for continuous sign language recognition (PyTorch) |
-| ML-accelerated Benders decomposition | Learning-assisted Benders decomposition for generation expansion planning, 5× speedup (MSc thesis, TU Delft) |
+| [ML-accelerated Benders decomposition](https://github.com/PeterrHH/ML-Enhanced-Benders) | Learning-assisted Benders decomposition for generation expansion planning, 5× speedup (MSc thesis, TU Delft) |
+| [WindGap](https://github.com/AdrianBodrug/Gone-with-the-wind-BayWe-Challenge) | Estimates wind-farm energy lost during communication outages by reconstructing wind from neighbouring farms, with P10–P90 uncertainty and an auto-drafted insurance claim. WATT THE HACK 2026, BayWa r.e. challenge. *My role: model & backend.* |
 
 ### Contact
-🌐 [peterrhh.github.io](https://peterrhh.github.io) · pacers0406@gmail.com · [LinkedIn](LINK) · [Google Scholar](LINK)
+🌐 [peterrhh.github.io](https://peterrhh.github.io) · pacers0406@gmail.com · [LinkedIn](www.linkedin.com/in/pengxuan-huang) 
