@@ -2,7 +2,7 @@
 
 ML researcher working at the intersection of **machine learning and mathematical optimization**, with applied work in **computer vision** and **medical imaging**.
 MSc Computer Science, TU Delft · BSc Computer Science & Actuarial Studies, UNSW Sydney.
-Open to PhD and ML research roles in Munich.
+Open to  ML research & PhD roles, data scientist and ML & software engineering in Germany.
 
 ### Research interests
 - **Learning-assisted optimization**: ML-accelerated decomposition methods for large-scale, physically constrained planning
