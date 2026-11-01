@@ -19,6 +19,7 @@ Open to PhD and ML research roles in Munich.
 | [ML-accelerated Benders decomposition](https://github.com/PeterrHH/ML-Enhanced-Benders) | Learning-assisted Benders decomposition for generation expansion planning, 5× speedup (MSc thesis, TU Delft) |
 | [WindGap](https://github.com/AdrianBodrug/Gone-with-the-wind-BayWe-Challenge) | 🥈 **2nd place, BayWa r.e. challenge, WATT THE HACK 2026.** Estimates wind-farm energy lost during communication outages by reconstructing wind from neighbouring farms, with P10–P90 uncertainty and an auto-drafted insurance claim. *My role: model & backend.* |
 | [GNN-Histo-Caption](https://github.com/PeterrHH/GNN-Histo-Caption) | Graph neural networks for histopathology report generation (Honours thesis, UNSW) |
+| [Release Engineering](https://github.com/remla25-team12/operation) | Restaurant sentiment-analysis web app released as six versioned services, deployed on Kubernetes with Helm and Istio, monitored with Prometheus and Grafana (team of 5). *My role: canary-release experiment with custom metrics & Grafana dashboard, custom pylint checker in CI.* |
 
 ### Contact
 🌐 [peterrhh.github.io](https://peterrhh.github.io) · [pacers0406@gmail.com](mailto:pacers0406@gmail.com) · [LinkedIn](https://www.linkedin.com/in/pengxuan-huang)
